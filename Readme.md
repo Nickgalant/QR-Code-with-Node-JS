@@ -2,7 +2,7 @@
 
 ### Features
  * NPM
-  - File System
+  >> File System
  * Middleware
-  - inquirer
-  - qr-image
+  >> inquirer
+  >> qr-image
